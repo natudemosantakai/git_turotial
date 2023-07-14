@@ -2,4 +2,4 @@
 test xxxx
 change23_0712_1101
 git diff
-git commit
+git commit --amend
