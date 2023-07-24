@@ -4,3 +4,5 @@ change23_0712_1101
 git diff
 git commit --amend
 git merge
+confrict
+<p>pull request<p/>
