@@ -6,3 +6,4 @@ git commit --amend
 git merge
 confrict
 <p>pull request<p/>
+git hub flow
